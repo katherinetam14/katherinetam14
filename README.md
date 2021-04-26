@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ktrockies14
-- 👀 I’m interested in journalism, data communications, public advocacy and building communities.
+- 👋 Hi, I’m @katherinetam14
+- 👀 I’m interested in journalism, data communications, and learning more about technology and development.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on data journalism and communications work. 
 - 📫 How to reach me: TBA 
